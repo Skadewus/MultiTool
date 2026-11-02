@@ -3,6 +3,7 @@
 **A free all-in-one panel for After Effects.** Custom easing curves, anchor point control, quick layer tools, and more, all in one clean panel.
 
 [![Download](https://img.shields.io/badge/Download-Latest%20release-blue)](../../releases/latest)
+[![YouTube](https://img.shields.io/badge/YouTube-Watch-red?logo=youtube)](https://youtu.be/KL_LmTDXER4?si=DRPYDWlaaYR3dpqW)
 
 ---
 
